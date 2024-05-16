@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+nav a{
+    background-color:black ; 
+   font-size: 20px;
+    padding: 5px;
+}
+nav{ display: flex;
+    height: 40px;
+    justify-content: space-around;
+    }
+.right{
+    float: right;
+}
+
+h2:hover{
+    transition: 1s;
+    border-bottom: 1px solid blue;
+}
+
+.left{
+    float: left;
+}
+
+footer{
+     background-color:black;
+     color: antiquewhite;
+}
+a{
+     color:beige;
+}
+b{
+    font-size:40px ;
+}
+header{
+    background-color:blue;
+    color:white ;
+    padding: 10px;
+}
+ul{
+    background-color:white;
+    color: black; 
+    padding: 7px;
+}
+li{
+    margin: 5px;
+}
+p{
+
+      padding: 7px;
+}
+iframe{
+    float:left;
+    margin: 15px;
+}
